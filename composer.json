@@ -12,7 +12,7 @@
             "name": "Murod Parmonov",
             "email": "info@thedevs.uz",
             "homepage": "https://thedevs.uz"
-        },
+        }
     ],
     "minimum-stability": "dev",
     "homepage": "https://github.com/parmonov98/laravel-eskiz",
