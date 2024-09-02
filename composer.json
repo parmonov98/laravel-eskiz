@@ -14,7 +14,8 @@
             "homepage": "https://thedevs.uz"
         }
     ],
-    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "minimum-stability": "stable",
     "homepage": "https://github.com/parmonov98/laravel-eskiz",
     "keywords": ["Laravel", "LaravelEskiz"],
     "require": {
